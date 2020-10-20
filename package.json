@@ -1,0 +1,32 @@
+{
+  "name": "Resume-Website",
+  "version": "1.0.0",
+  "description": "My resume",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waxillium/Resume-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waxillium/Resume-Website/issues"
+  },
+  "homepage": "https://github.com/Waxillium/Resume-Website#readme",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "next": "^9.5.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0"
+  }
+}
